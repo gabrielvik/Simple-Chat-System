@@ -1,0 +1,17 @@
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\bin\Debug\net7.0\Chat Server.exe
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\bin\Debug\net7.0\Chat Server.deps.json
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\bin\Debug\net7.0\Chat Server.runtimeconfig.json
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\bin\Debug\net7.0\Chat Server.dll
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\bin\Debug\net7.0\Chat Server.pdb
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.csproj.AssemblyReference.cache
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.AssemblyInfoInputs.cache
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.AssemblyInfo.cs
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.csproj.CoreCompileInputs.cache
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.csproj.CopyComplete
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.dll
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\refint\Chat Server.dll
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.pdb
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\Chat Server.genruntimeconfig.cache
+C:\Users\Dator\Desktop\chat\Chat Server\Chat Server\obj\Debug\net7.0\ref\Chat Server.dll
